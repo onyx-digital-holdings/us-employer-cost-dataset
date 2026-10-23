@@ -18,6 +18,10 @@ the date it was last verified.**
 Interactive version, calculator and methodology: **[Hiring Cost Atlas by LeadChange Group](https://leadchangegroup.com/research/hiring-cost-atlas/)**
 · Employee cost calculator: https://leadchangegroup.com/tools/employee-cost-calculator/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23587548.svg)](https://doi.org/10.5281/zenodo.23587548)
+
+Also on [Kaggle](https://www.kaggle.com/datasets/leadchangegroup/us-employer-cost-2026-2027-hiring-cost-atlas) and [Zenodo](https://doi.org/10.5281/zenodo.23587548).
+
 ## Files
 
 | File | Content |
@@ -54,7 +58,7 @@ https://leadchangegroup.com/api/hiring-cost-atlas/v1/states/.
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): free to use, share and adapt, including commercially, with
 attribution. Please cite as:
 
-> LeadChange Research Team, "Hiring Cost Atlas", LeadChange Group, 2026, https://leadchangegroup.com/research/hiring-cost-atlas/
+> LeadChange Research Team, "Hiring Cost Atlas", LeadChange Group, 2026, https://leadchangegroup.com/research/hiring-cost-atlas/ (DOI: 10.5281/zenodo.23587548)
 
 Estimates for planning only; not tax or legal advice. Found an error? Tell us through the correction link on the
 atlas page.
