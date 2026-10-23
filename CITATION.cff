@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Hiring Cost Atlas: US Employer Cost Dataset 2026-2027"
+authors:
+  - name: "LeadChange Research Team, LeadChange Group"
+date-released: 2026-10-23
+url: "https://leadchangegroup.com/research/hiring-cost-atlas/"
+license: CC-BY-4.0
+type: dataset
+keywords: [payroll taxes, employer cost, SUTA, FUTA, minimum wage, paid leave, workers compensation, United States]

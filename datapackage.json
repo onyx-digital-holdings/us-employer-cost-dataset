@@ -1,0 +1,93 @@
+{
+ "name": "us-employer-cost-2026-2027",
+ "title": "US Employer Cost Dataset 2026-2027 (Hiring Cost Atlas)",
+ "homepage": "https://leadchangegroup.com/research/hiring-cost-atlas/",
+ "version": "2026.10.23",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "Creative Commons Attribution 4.0"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Official US federal, state and city agencies (one source_url per row)",
+   "path": "https://leadchangegroup.com/research/hiring-cost-atlas/"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "LeadChange Group",
+   "path": "https://leadchangegroup.com",
+   "role": "author"
+  }
+ ],
+ "resources": [
+  {
+   "name": "us-employer-cost-2026-2027",
+   "path": "us-employer-cost-2026-2027.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "jurisdiction",
+      "description": "State (two-letter code) or city",
+      "type": "string"
+     },
+     {
+      "name": "jurisdiction_type",
+      "description": "federal, state or city",
+      "type": "string"
+     },
+     {
+      "name": "year",
+      "description": "Calendar year the value applies to",
+      "type": "number"
+     },
+     {
+      "name": "measure",
+      "description": "What the value is (see the methodology on this page)",
+      "type": "string"
+     },
+     {
+      "name": "value",
+      "description": "The number",
+      "type": "number"
+     },
+     {
+      "name": "unit",
+      "description": "percent, usd, usd_per_100_payroll, usd_per_hour, usd_per_month, hours, employees",
+      "type": "string"
+     },
+     {
+      "name": "effective",
+      "description": "Date the value applies from (or the survey or study edition)",
+      "type": "string"
+     },
+     {
+      "name": "carried_from_2026",
+      "description": "1 when the 2027 value is not published yet and the 2026 value is shown",
+      "type": "number"
+     },
+     {
+      "name": "source_url",
+      "description": "Official page the value comes from",
+      "type": "string"
+     },
+     {
+      "name": "publisher",
+      "description": "Agency that publishes it",
+      "type": "string"
+     },
+     {
+      "name": "verified_at",
+      "description": "Day the value was last checked against its source",
+      "type": "string"
+     }
+    ]
+   }
+  }
+ ]
+}
