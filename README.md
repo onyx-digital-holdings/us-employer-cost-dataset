@@ -6,21 +6,25 @@ of Columbia, 12 cities with their own rules and the federal level, every officia
 - Federal payroll taxes: Social Security (rate and wage base, 2026 and 2027), Medicare, FUTA and credit-reduction states.
 - State unemployment insurance (SUTA): new-employer rate and taxable wage base.
 - State employer-paid programs: paid family and medical leave, temporary disability (employer shares and size thresholds).
+- State unemployment insurance by industry: new-employer rates by sector (NAICS) where the state sets them.
 - Workers' compensation: state premium index per $100 of payroll.
 - Employer health coverage: average premiums and employee contributions by state (single and family).
 - Paid sick leave mandates: accrual rate and yearly caps by employer size.
 - Minimum wage: state and city rates for 2026 and the 2027 rates already announced.
 - City rules: local payroll taxes and charges (e.g. NYC MCTMT, Denver OPT, Jersey City payroll tax, Portland TriMet).
 
-**642 values, 64 jurisdictions. Every value has its official source URL, the publishing agency, the effective date and
+**808 values, 64 jurisdictions. Every value has its official source URL, the publishing agency, the effective date and
 the date it was last verified.**
 
 Interactive version, calculator and methodology: **[Hiring Cost Atlas by LeadChange Group](https://leadchangegroup.com/research/hiring-cost-atlas/)**
 · Employee cost calculator: https://leadchangegroup.com/tools/employee-cost-calculator/
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23587548.svg)](https://doi.org/10.5281/zenodo.23587548)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23587547.svg)](https://doi.org/10.5281/zenodo.23587547)
 
-Also on [Kaggle](https://www.kaggle.com/datasets/leadchangegroup/us-employer-cost-2026-2027-hiring-cost-atlas) and [Zenodo](https://doi.org/10.5281/zenodo.23587548).
+Also on [Kaggle](https://www.kaggle.com/datasets/leadchangegroup/us-employer-cost-2026-2027-hiring-cost-atlas) and [Zenodo](https://doi.org/10.5281/zenodo.23587547).
+
+
+Years covered: 2024–2027 · version 2026.10.25
 
 ## Files
 
@@ -58,7 +62,7 @@ https://leadchangegroup.com/api/hiring-cost-atlas/v1/states/.
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): free to use, share and adapt, including commercially, with
 attribution. Please cite as:
 
-> LeadChange Research Team, "Hiring Cost Atlas", LeadChange Group, 2026, https://leadchangegroup.com/research/hiring-cost-atlas/ (DOI: 10.5281/zenodo.23587548)
+> LeadChange Research Team, "Hiring Cost Atlas", LeadChange Group, 2026, https://leadchangegroup.com/research/hiring-cost-atlas/ (DOI: 10.5281/zenodo.23587547)
 
 Estimates for planning only; not tax or legal advice. Found an error? Tell us through the correction link on the
 atlas page.
