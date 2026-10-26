@@ -13,7 +13,7 @@ of Columbia, 12 cities with their own rules and the federal level, every officia
 - Minimum wage: state and city rates for 2026 and the 2027 rates already announced.
 - City rules: local payroll taxes and charges (e.g. NYC MCTMT, Denver OPT, Jersey City payroll tax, Portland TriMet).
 
-**808 values, 64 jurisdictions. Every value has its official source URL, the publishing agency, the effective date and
+**827 values, 64 jurisdictions. Every value has its official source URL, the publishing agency, the effective date and
 the date it was last verified.**
 
 Interactive version, calculator and methodology: **[Hiring Cost Atlas by LeadChange Group](https://leadchangegroup.com/research/hiring-cost-atlas/)**
@@ -24,7 +24,9 @@ Interactive version, calculator and methodology: **[Hiring Cost Atlas by LeadCha
 Also on [Kaggle](https://www.kaggle.com/datasets/leadchangegroup/us-employer-cost-2026-2027-hiring-cost-atlas) and [Zenodo](https://doi.org/10.5281/zenodo.23587547).
 
 
-Years covered: 2024–2027 · version 2026.10.25
+
+
+Years covered: 2024–2027 · version 2026.10.26
 
 ## Files
 
@@ -41,7 +43,7 @@ Years covered: 2024–2027 · version 2026.10.25
 | `jurisdiction` | State (two-letter code), city or `US` |
 | `jurisdiction_type` | `federal`, `state` or `city` |
 | `year` | Calendar year the value applies to |
-| `measure` | What the value is (e.g. `suta_new_employer_rate`, `social_security_wage_base`) |
+| `measure` | What the value is (e.g. `sui_new_employer_rate`, `minimum_wage`, `social_security_wage_base`) |
 | `value` | The number |
 | `unit` | `percent`, `usd`, `usd_per_100_payroll`, `usd_per_hour`, `usd_per_month`, `hours`, `employees` |
 | `effective` | Date the value applies from (or the survey or study edition) |
