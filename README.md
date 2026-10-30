@@ -13,7 +13,7 @@ of Columbia, 12 cities with their own rules and the federal level, every officia
 - Minimum wage: state and city rates for 2026 and the 2027 rates already announced.
 - City rules: local payroll taxes and charges (e.g. NYC MCTMT, Denver OPT, Jersey City payroll tax, Portland TriMet).
 
-**827 values, 64 jurisdictions. Every value has its official source URL, the publishing agency, the effective date and
+**825 values, 64 jurisdictions. Every value has its official source URL, the publishing agency, the effective date and
 the date it was last verified.**
 
 Interactive version, calculator and methodology: **[Hiring Cost Atlas by LeadChange Group](https://leadchangegroup.com/research/hiring-cost-atlas/)**
@@ -23,15 +23,13 @@ Interactive version, calculator and methodology: **[Hiring Cost Atlas by LeadCha
 
 Also on [Kaggle](https://www.kaggle.com/datasets/leadchangegroup/us-employer-cost-2026-2027-hiring-cost-atlas) and [Zenodo](https://doi.org/10.5281/zenodo.23587547).
 
-
-
-
-Years covered: 2024–2027 · version 2026.10.26
+Years covered: 2024–2027 · version 2026.10.30
 
 ## Files
 
 | File | Content |
 |---|---|
+| `CHANGELOG.md` | What changed in each version |
 | `us-employer-cost-2026-2027.csv` | One row per value (long format) |
 | `us-employer-cost-2026-2027.json` | Same data with column descriptions, license and citation |
 | `datapackage.json` | Frictionless Data descriptor |
