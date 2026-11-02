@@ -23,7 +23,7 @@ Interactive version, calculator and methodology: **[Hiring Cost Atlas by LeadCha
 
 Also on [Kaggle](https://www.kaggle.com/datasets/leadchangegroup/us-employer-cost-2026-2027-hiring-cost-atlas) and [Zenodo](https://doi.org/10.5281/zenodo.23587547).
 
-Years covered: 2024–2027 · version 2026.10.30
+Years covered: 2024–2027 · version 2026.11.02
 
 ## Files
 
