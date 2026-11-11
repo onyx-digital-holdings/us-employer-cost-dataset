@@ -67,7 +67,7 @@ AR,state,2025,health_family_employee_contribution,7824,usd,2025-01-01,0,https://
 CA,state,2026,sui_wage_base,7000,usd,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-31
 CA,state,2026,sui_new_employer_rate,3.4,percent,2026-01-01,0,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-10-23
 CA,state,2026,sui_surcharge_ett,0.1,percent,2026-01-01,0,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-10-23
-CA,state,2026,futa_credit_reduction_potential,1.5,percent,2026-11-10,0,https://oui.doleta.gov/unemploy/docs/potential_credit_states_2026.xlsx,"U.S. Department of Labor, Employment and Training Administration",2026-10-31
+CA,state,2026,futa_credit_reduction_potential,1.5,percent,2026-11-10,0,https://oui.doleta.gov/unemploy/docs/potential_credit_states_2026.xlsx,"U.S. Department of Labor, Employment and Training Administration",2026-11-11
 CA,state,2027,sui_wage_base,7000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-31
 CA,state,2027,sui_new_employer_rate,3.4,percent,2026-01-01,1,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-10-23
 CA,state,2027,sui_surcharge_ett,0.1,percent,2026-01-01,1,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-10-23
@@ -490,6 +490,10 @@ NE,state,2027,sui_wage_base,9000,usd,2026-01-01,1,https://oui.doleta.gov/unemplo
 NE,state,2027,sui_new_employer_rate,1.25,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 NE,state,2027,minimum_wage,15.26,usd_per_hour,2027-01-01,0,https://dol.nebraska.gov/webdocs/getfile/18bc2309-85ed-4957-b072-e899caeaca99,Nebraska Department of Labor,2026-10-25
 NE,state,2026,minimum_wage,15,usd_per_hour,2026-11-03,0,https://www.dol.gov/agencies/whd/minimum-wage/state,"U.S. Department of Labor, Wage and Hour Division",2026-11-03
+NE,state,2026,paid_sick_leave_hours_worked_per_hour_11_19_employees,30,hours,2025-10-01,0,https://dol.nebraska.gov/webdocs/Resources/Items/Poster%20Paid%20Sick%20Time.pdf,Nebraska Department of Labor,2026-10-27
+NE,state,2026,paid_sick_leave_yearly_cap_11_19_employees,40,hours,2025-10-01,0,https://dol.nebraska.gov/webdocs/Resources/Items/Poster%20Paid%20Sick%20Time.pdf,Nebraska Department of Labor,2026-10-27
+NE,state,2026,paid_sick_leave_hours_worked_per_hour_20_plus_employees,30,hours,2025-10-01,0,https://dol.nebraska.gov/webdocs/Resources/Items/Poster%20Paid%20Sick%20Time.pdf,Nebraska Department of Labor,2026-10-27
+NE,state,2026,paid_sick_leave_yearly_cap_20_plus_employees,56,hours,2025-10-01,0,https://dol.nebraska.gov/webdocs/Resources/Items/Poster%20Paid%20Sick%20Time.pdf,Nebraska Department of Labor,2026-10-27
 NE,state,2024,workers_comp_index_rate,1.12,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 NE,state,2025,health_single_premium,8907,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NE,state,2025,health_single_employee_contribution,1722,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -731,7 +735,7 @@ VT,state,2026,sui_wage_base,15400,usd,2026-01-01,0,https://oui.doleta.gov/unempl
 VT,state,2026,sui_new_employer_rate,1,percent,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 VT,state,2027,sui_wage_base,15400,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 VT,state,2027,sui_new_employer_rate,1,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
-VT,state,2027,minimum_wage,14.42,usd_per_hour,2026-01-01,1,https://legislature.vermont.gov/statutes/section/21/005/00384,Vermont General Assembly (21 V.S.A. § 384),2026-11-03
+VT,state,2027,minimum_wage,14.91,usd_per_hour,2027-01-01,0,https://labor.vermont.gov/press-release/vermont-department-labor-announces-minimum-wage-increase-starting-january-2027,Vermont Department of Labor,2026-11-11
 VT,state,2026,minimum_wage,14.42,usd_per_hour,2026-01-01,0,https://labor.vermont.gov/press-release/vermont-department-labor-announces-minimum-wage-increase-starting-january-2026,Vermont Department of Labor,2026-11-03
 VT,state,2026,paid_sick_leave_hours_worked_per_hour_1_plus_employees,52,hours,2019-01-01,0,https://legislature.vermont.gov/statutes/section/21/005/00482,Vermont General Assembly (21 V.S.A. § 482),2026-10-23
 VT,state,2026,paid_sick_leave_yearly_cap_1_plus_employees,40,hours,2019-01-01,0,https://legislature.vermont.gov/statutes/section/21/005/00482,Vermont General Assembly (21 V.S.A. § 482),2026-10-23
