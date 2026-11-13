@@ -68,9 +68,9 @@ CA,state,2026,sui_wage_base,7000,usd,2026-01-01,0,https://oui.doleta.gov/unemplo
 CA,state,2026,sui_new_employer_rate,3.4,percent,2026-01-01,0,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-10-23
 CA,state,2026,sui_surcharge_ett,0.1,percent,2026-01-01,0,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-10-23
 CA,state,2026,futa_credit_reduction_potential,1.5,percent,2026-11-10,0,https://oui.doleta.gov/unemploy/docs/potential_credit_states_2026.xlsx,"U.S. Department of Labor, Employment and Training Administration",2026-11-11
-CA,state,2027,sui_wage_base,7000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-31
-CA,state,2027,sui_new_employer_rate,3.4,percent,2026-01-01,1,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-10-23
-CA,state,2027,sui_surcharge_ett,0.1,percent,2026-01-01,1,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-10-23
+CA,state,2027,sui_wage_base,7000,usd,2027-01-01,0,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-11-11
+CA,state,2027,sui_new_employer_rate,3.4,percent,2027-01-01,0,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-11-11
+CA,state,2027,sui_surcharge_ett,0.1,percent,2027-01-01,1,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-11-11
 CA,state,2027,minimum_wage,17.4,usd_per_hour,2027-01-01,0,https://www.dir.ca.gov/DIRNews/2026/2026-66.html,California Department of Industrial Relations,2026-11-03
 CA,state,2026,minimum_wage,16.9,usd_per_hour,2026-01-01,0,https://www.dir.ca.gov/dlse/faq_minimumwage.htm,California Department of Industrial Relations,2026-11-03
 CA,state,2026,paid_sick_leave_hours_worked_per_hour_1_plus_employees,30,hours,2024-01-01,0,https://www.dir.ca.gov/dlse/Paid_Sick_Leave.htm,California Labor Commissioner (DIR),2026-10-23
@@ -83,7 +83,7 @@ CA,state,2025,health_family_employee_contribution,7847,usd,2025-01-01,0,https://
 CO,state,2026,sui_wage_base,30600,usd,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 CO,state,2026,sui_new_employer_rate,3.05,percent,2026-01-01,0,https://cdle.colorado.gov/employers/unemployment-insurance-premiums/introductory-rates,Colorado Department of Labor and Employment,2026-10-23
 CO,state,2026,sui_new_employer_rate_construction,3.05,percent,2026-01-01,0,https://cdle.colorado.gov/employers/unemployment-insurance-premiums/introductory-rates,Colorado Department of Labor and Employment,2026-10-23
-CO,state,2026,co_famli_employer_rate_10_plus_employees,0.44,percent,2026-01-01,0,https://famli.colorado.gov/employers,Colorado FAMLI Division (CDLE),2026-10-23
+CO,state,2026,co_famli_employer_rate_10_plus_employees,0.44,percent,2026-01-01,0,https://famli.colorado.gov/employers,Colorado FAMLI Division (CDLE),2026-11-13
 CO,state,2027,sui_wage_base,32100,usd,2027-01-01,0,https://cdle.colorado.gov/employers/unemployment-insurance-premiums/premium-rates,Colorado Department of Labor and Employment,2026-10-23
 CO,state,2027,sui_new_employer_rate,1.7,percent,2027-01-01,0,https://cdle.colorado.gov/employers/unemployment-insurance-premiums/introductory-rates,Colorado Department of Labor and Employment,2026-10-23
 CO,state,2027,sui_new_employer_rate_construction,1.7,percent,2027-01-01,0,https://cdle.colorado.gov/employers/unemployment-insurance-premiums/introductory-rates,Colorado Department of Labor and Employment,2026-10-23
@@ -114,7 +114,7 @@ DE,state,2026,sui_wage_base,14500,usd,2026-01-01,0,https://oui.doleta.gov/unempl
 DE,state,2026,sui_new_employer_rate,1,percent,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 DE,state,2026,de_paid_leave_employer_rate_10_24_employees,0.16,percent,2026-01-01,0,https://laborfiles.delaware.gov/main/pfl/Employer_and_TPAs_Guide_to_DPL.pdf,Delaware Department of Labor,2026-11-02
 DE,state,2026,de_paid_leave_employer_rate_25_plus_employees,0.4,percent,2026-01-01,0,https://laborfiles.delaware.gov/main/pfl/Employer_and_TPAs_Guide_to_DPL.pdf,Delaware Department of Labor,2026-11-02
-DE,state,2027,sui_wage_base,14500,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
+DE,state,2027,sui_wage_base,16500,usd,2027-01-01,0,https://delcode.delaware.gov/title19/c033/sc01/index.html,"Delaware Code, Title 19, § 3302",2026-11-11
 DE,state,2027,sui_new_employer_rate,1,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 DE,state,2027,de_paid_leave_employer_rate_10_24_employees,0.16,percent,2026-01-01,1,https://laborfiles.delaware.gov/main/pfl/Employer_and_TPAs_Guide_to_DPL.pdf,Delaware Department of Labor,2026-11-02
 DE,state,2027,de_paid_leave_employer_rate_25_plus_employees,0.4,percent,2026-01-01,1,https://laborfiles.delaware.gov/main/pfl/Employer_and_TPAs_Guide_to_DPL.pdf,Delaware Department of Labor,2026-11-02
@@ -212,7 +212,7 @@ IN,state,2025,health_family_employee_contribution,6650,usd,2025-01-01,0,https://
 IA,state,2026,sui_wage_base,20400,usd,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 IA,state,2026,sui_new_employer_rate,1,percent,2026-01-01,0,https://workforce.iowa.gov/employers/unemployment-insurance/ui-tax-and-audit/unemployment-insurance-taxes,Iowa Workforce Development,2026-11-02
 IA,state,2026,sui_new_employer_rate_construction,5.4,percent,2026-01-01,0,https://workforce.iowa.gov/employers/unemployment-insurance/ui-tax-and-audit/unemployment-insurance-taxes,Iowa Workforce Development,2026-10-23
-IA,state,2027,sui_wage_base,20400,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
+IA,state,2027,sui_wage_base,21100,usd,2027-01-01,0,https://workforce.iowa.gov/announcement/2026-06-30/iowans-unemployment-benefits-increase-starting-july-5,Iowa Workforce Development,2026-11-11
 IA,state,2027,sui_new_employer_rate,1,percent,2027-01-01,0,https://workforce.iowa.gov/press-release/2026-09-02/iowa-announces-fifth-consecutive-year-lowest-possible-ui-tax-rates-employers,Iowa Workforce Development,2026-10-23
 IA,state,2027,sui_new_employer_rate_construction,5.4,percent,2027-01-01,0,https://workforce.iowa.gov/press-release/2026-09-02/iowa-announces-fifth-consecutive-year-lowest-possible-ui-tax-rates-employers,Iowa Workforce Development,2026-10-23
 IA,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://dial.iowa.gov/hearings/wage-and-child-labor/wages,"Iowa Department of Inspections, Appeals, and Licensing",2026-11-03
@@ -440,8 +440,8 @@ MS,state,2025,health_family_premium,21932,usd,2025-01-01,0,https://meps.ahrq.gov
 MS,state,2025,health_family_employee_contribution,6228,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MO,state,2026,sui_wage_base,9000,usd,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 MO,state,2026,sui_new_employer_rate,2.376,percent,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
-MO,state,2027,sui_wage_base,9000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
-MO,state,2027,sui_new_employer_rate,2.376,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
+MO,state,2027,sui_wage_base,8500,usd,2027-01-01,0,https://labor.mo.gov/DES/Employers/tax_rates,Missouri Division of Employment Security,2026-11-11
+MO,state,2027,sui_new_employer_rate,2.376,percent,2027-01-01,0,https://labor.mo.gov/DES/Employers/tax_rates,Missouri Division of Employment Security,2026-11-11
 MO,state,2027,minimum_wage,15,usd_per_hour,2026-01-01,0,https://labor.mo.gov/news/press-releases/minimum-wage-increases-1500-hour-2026,Missouri Department of Labor and Industrial Relations,2026-11-03
 MO,state,2026,minimum_wage,15,usd_per_hour,2026-01-01,0,https://labor.mo.gov/DLS/MinimumWage,Missouri Department of Labor and Industrial Relations,2026-11-03
 MO,state,2024,workers_comp_index_rate,1.31,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
@@ -733,7 +733,7 @@ UT,state,2025,health_family_premium,25122,usd,2025-01-01,0,https://meps.ahrq.gov
 UT,state,2025,health_family_employee_contribution,5567,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 VT,state,2026,sui_wage_base,15400,usd,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 VT,state,2026,sui_new_employer_rate,1,percent,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
-VT,state,2027,sui_wage_base,15400,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
+VT,state,2027,sui_wage_base,16100,usd,2027-01-01,0,https://labor.vermont.gov/press-release/vermont-department-labor-announces-unemployment-insurance-taxable-wage-base-2027,Vermont Department of Labor,2026-11-11
 VT,state,2027,sui_new_employer_rate,1,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 VT,state,2027,minimum_wage,14.91,usd_per_hour,2027-01-01,0,https://labor.vermont.gov/press-release/vermont-department-labor-announces-minimum-wage-increase-starting-january-2027,Vermont Department of Labor,2026-11-11
 VT,state,2026,minimum_wage,14.42,usd_per_hour,2026-01-01,0,https://labor.vermont.gov/press-release/vermont-department-labor-announces-minimum-wage-increase-starting-january-2026,Vermont Department of Labor,2026-11-03
@@ -758,7 +758,7 @@ VA,state,2025,health_family_employee_contribution,8692,usd,2025-01-01,0,https://
 WA,state,2026,sui_wage_base,78200,usd,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 WA,state,2026,sui_new_employer_rate_minimum,1,percent,2026-01-01,0,https://esd.wa.gov/employer-requirements/unemployment-taxes/how-we-determine-tax-rates,Washington Employment Security Department,2026-10-23
 WA,state,2026,wa_paid_leave_employer_rate_50_plus_employees,0.322841,percent,2026-01-01,0,https://esd.wa.gov/node/1109,Washington Employment Security Department,2026-10-23
-WA,state,2027,sui_wage_base,78200,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
+WA,state,2027,sui_wage_base,82000,usd,2027-01-01,0,https://esd.wa.gov/node/1254,Washington Employment Security Department,2026-11-11
 WA,state,2027,sui_new_employer_rate_minimum,1,percent,2026-01-01,1,https://esd.wa.gov/employer-requirements/unemployment-taxes/how-we-determine-tax-rates,Washington Employment Security Department,2026-10-23
 WA,state,2027,wa_paid_leave_employer_rate_50_plus_employees,0.3516,percent,2027-01-01,0,https://paidleave.wa.gov/updates,Washington Employment Security Department,2026-10-23
 WA,state,2027,minimum_wage,17.73,usd_per_hour,2027-01-01,0,https://lni.wa.gov/workers-rights/wages/minimum-wage/,Washington Department of Labor & Industries,2026-11-03
@@ -781,12 +781,12 @@ WV,state,2025,health_single_employee_contribution,2012,usd,2025-01-01,0,https://
 WV,state,2025,health_family_premium,26094,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 WV,state,2025,health_family_employee_contribution,5129,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 WI,state,2026,sui_wage_base,14000,usd,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
-WI,state,2026,sui_new_employer_rate,3.05,percent,2027-01-01,0,https://dwd.wisconsin.gov/ui/employers/taxrates/,Wisconsin Department of Workforce Development,2026-10-23
-WI,state,2026,sui_new_employer_rate_construction,2.5,percent,2027-01-01,0,https://dwd.wisconsin.gov/ui/employers/taxrates/,Wisconsin Department of Workforce Development,2026-10-23
-WI,state,2027,sui_wage_base,14000,usd,2027-01-01,0,https://dwd.wisconsin.gov/ui/employers/taxrates/,Wisconsin Department of Workforce Development,2026-10-23
-WI,state,2027,sui_new_employer_rate,3.05,percent,2027-01-01,0,https://dwd.wisconsin.gov/ui/employers/taxrates/,Wisconsin Department of Workforce Development,2026-10-23
-WI,state,2027,sui_new_employer_rate_construction,2.5,percent,2027-01-01,0,https://dwd.wisconsin.gov/ui/employers/taxrates/,Wisconsin Department of Workforce Development,2026-10-23
-WI,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://dwd.wisconsin.gov/er/laborstandards/minimumwage.htm,Wisconsin Department of Workforce Development,2026-11-03
+WI,state,2026,sui_new_employer_rate,3.05,percent,2027-01-01,0,https://dwd.wisconsin.gov/ui/employer/taxrates,Wisconsin Department of Workforce Development,2026-11-12
+WI,state,2026,sui_new_employer_rate_construction,2.5,percent,2027-01-01,0,https://dwd.wisconsin.gov/ui/employer/taxrates,Wisconsin Department of Workforce Development,2026-11-12
+WI,state,2027,sui_wage_base,14000,usd,2027-01-01,0,https://dwd.wisconsin.gov/ui/employer/taxrates,Wisconsin Department of Workforce Development,2026-11-12
+WI,state,2027,sui_new_employer_rate,3.05,percent,2027-01-01,0,https://dwd.wisconsin.gov/ui/employer/taxrates,Wisconsin Department of Workforce Development,2026-11-12
+WI,state,2027,sui_new_employer_rate_construction,2.5,percent,2027-01-01,0,https://dwd.wisconsin.gov/ui/employer/taxrates,Wisconsin Department of Workforce Development,2026-11-12
+WI,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-12,0,https://dwd.wisconsin.gov/er/labor-standards/wages-deductions/minimum-wage,Wisconsin Department of Workforce Development,2026-11-12
 WI,state,2024,workers_comp_index_rate,1.42,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 WI,state,2025,health_single_premium,9557,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 WI,state,2025,health_single_employee_contribution,2052,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02

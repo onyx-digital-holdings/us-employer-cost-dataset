@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.11.13
+
+Colorado FAMLI 2026 premium (0.88%) re-quoted from famli.colorado.gov/employers after the page dropped its earlier sentence; value unchanged. Wisconsin DWD minimum-wage and unemployment-rate sources re-addressed after the agency's 2026-11-10 site relaunch; values unchanged.
+
 ## 2026.11.11
 
 Vermont's 2027 minimum wage ($14.91 from January 1, 2027, Vermont Department of Labor, announced November 9, 2026); Nebraska paid sick leave (1 hour per 30 worked; 40 hours a year at 11-19 employees, 56 at 20 or more; Nebraska Department of Labor); California's FUTA credit reduction still the U.S. Department of Labor's potential 1.5%, re-checked November 11, 2026 (the final 2026 list was not published yet).
