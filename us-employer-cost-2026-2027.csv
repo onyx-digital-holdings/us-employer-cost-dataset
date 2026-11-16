@@ -17,7 +17,7 @@ AL,state,2026,sui_new_employer_rate,2.7,percent,2026-01-01,0,https://oui.doleta.
 AL,state,2027,sui_wage_base,8000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 AL,state,2027,sui_new_employer_rate,2.7,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 AL,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.dol.gov/agencies/whd/minimum-wage/state,"U.S. Department of Labor, Wage and Hour Division",2026-11-03
-AL,state,2024,workers_comp_index_rate,1.11,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+AL,state,2024,workers_comp_index_rate,1.11,usd_per_100_payroll,2023-03-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 AL,state,2025,health_single_premium,8169,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 AL,state,2025,health_single_employee_contribution,2048,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 AL,state,2025,health_family_premium,23554,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -59,7 +59,7 @@ AR,state,2027,sui_wage_base,7000,usd,2026-01-01,1,https://oui.doleta.gov/unemplo
 AR,state,2027,sui_new_employer_rate,1.8,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 AR,state,2027,minimum_wage,11,usd_per_hour,2021-01-01,0,https://labor.arkansas.gov/labor/labor-standards/minimum-wage-and-overtime/,Arkansas Department of Labor and Licensing,2026-11-03
 AR,state,2026,minimum_wage,11,usd_per_hour,2021-01-01,0,https://labor.arkansas.gov/labor/labor-standards/minimum-wage-and-overtime/,Arkansas Department of Labor and Licensing,2026-11-03
-AR,state,2024,workers_comp_index_rate,0.53,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+AR,state,2024,workers_comp_index_rate,0.53,usd_per_100_payroll,2023-07-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 AR,state,2025,health_single_premium,7804,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 AR,state,2025,health_single_employee_contribution,1795,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 AR,state,2025,health_family_premium,22956,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -75,7 +75,7 @@ CA,state,2027,minimum_wage,17.4,usd_per_hour,2027-01-01,0,https://www.dir.ca.gov
 CA,state,2026,minimum_wage,16.9,usd_per_hour,2026-01-01,0,https://www.dir.ca.gov/dlse/faq_minimumwage.htm,California Department of Industrial Relations,2026-11-03
 CA,state,2026,paid_sick_leave_hours_worked_per_hour_1_plus_employees,30,hours,2024-01-01,0,https://www.dir.ca.gov/dlse/Paid_Sick_Leave.htm,California Labor Commissioner (DIR),2026-10-23
 CA,state,2026,paid_sick_leave_yearly_cap_1_plus_employees,40,hours,2024-01-01,0,https://www.dir.ca.gov/dlse/Paid_Sick_Leave.htm,California Labor Commissioner (DIR),2026-10-23
-CA,state,2024,workers_comp_index_rate,1.86,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+CA,state,2024,workers_comp_index_rate,1.86,usd_per_100_payroll,2023-09-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 CA,state,2025,health_single_premium,9162,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 CA,state,2025,health_single_employee_contribution,1515,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 CA,state,2025,health_family_premium,27057,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -120,7 +120,7 @@ DE,state,2027,de_paid_leave_employer_rate_10_24_employees,0.16,percent,2026-01-0
 DE,state,2027,de_paid_leave_employer_rate_25_plus_employees,0.4,percent,2026-01-01,1,https://laborfiles.delaware.gov/main/pfl/Employer_and_TPAs_Guide_to_DPL.pdf,Delaware Department of Labor,2026-11-02
 DE,state,2027,minimum_wage,15,usd_per_hour,2025-01-01,0,https://delcode.delaware.gov/title19/c009/index.html,"Delaware Code, Title 19, § 902",2026-11-03
 DE,state,2026,minimum_wage,15,usd_per_hour,2025-01-01,0,https://industrialaffairs.delaware.gov/en-us/knowledgebase-employee/what-is-the-current-minimum-wage-in-delaware,Delaware Department of Labor,2026-11-03
-DE,state,2024,workers_comp_index_rate,0.97,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+DE,state,2024,workers_comp_index_rate,0.97,usd_per_100_payroll,2023-12-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 DE,state,2025,health_single_premium,9459,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 DE,state,2025,health_single_employee_contribution,2120,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 DE,state,2025,health_family_premium,25600,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -139,7 +139,7 @@ DC,state,2026,paid_sick_leave_hours_worked_per_hour_25_99_employees,43,hours,201
 DC,state,2026,paid_sick_leave_yearly_cap_25_99_employees,40,hours,2014-02-22,0,https://does.dc.gov/sites/default/files/dc/sites/does/page_content/attachments/ASSLA%20Fact%20Sheet.pdf,DC Department of Employment Services,2026-10-23
 DC,state,2026,paid_sick_leave_hours_worked_per_hour_100_plus_employees,37,hours,2014-02-22,0,https://does.dc.gov/sites/default/files/dc/sites/does/page_content/attachments/ASSLA%20Fact%20Sheet.pdf,DC Department of Employment Services,2026-10-23
 DC,state,2026,paid_sick_leave_yearly_cap_100_plus_employees,56,hours,2014-02-22,0,https://does.dc.gov/sites/default/files/dc/sites/does/page_content/attachments/ASSLA%20Fact%20Sheet.pdf,DC Department of Employment Services,2026-10-23
-DC,state,2024,workers_comp_index_rate,0.73,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+DC,state,2024,workers_comp_index_rate,0.73,usd_per_100_payroll,2023-11-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 DC,state,2025,health_single_premium,9762,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 DC,state,2025,health_single_employee_contribution,1863,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 DC,state,2025,health_family_premium,29371,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -160,7 +160,7 @@ GA,state,2026,sui_new_employer_rate,2.64,percent,2026-01-01,0,https://oui.doleta
 GA,state,2027,sui_wage_base,9500,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 GA,state,2027,sui_new_employer_rate,2.64,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 GA,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://dol.georgia.gov/minimum-wage,Georgia Department of Labor,2026-11-03
-GA,state,2024,workers_comp_index_rate,1.09,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+GA,state,2024,workers_comp_index_rate,1.09,usd_per_100_payroll,2023-03-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 GA,state,2025,health_single_premium,8907,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 GA,state,2025,health_single_employee_contribution,1748,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 GA,state,2025,health_family_premium,26439,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -171,7 +171,7 @@ HI,state,2027,sui_wage_base,64500,usd,2026-01-01,1,https://oui.doleta.gov/unempl
 HI,state,2027,sui_new_employer_rate,2.4,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 HI,state,2027,minimum_wage,16,usd_per_hour,2026-01-01,0,https://labor.hawaii.gov/wsd/minimum-wage/,Hawaii Department of Labor and Industrial Relations,2026-11-03
 HI,state,2026,minimum_wage,16,usd_per_hour,2026-01-01,0,https://labor.hawaii.gov/wsd/minimum-wage/,Hawaii Department of Labor and Industrial Relations,2026-11-03
-HI,state,2024,workers_comp_index_rate,2.52,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+HI,state,2024,workers_comp_index_rate,2.52,usd_per_100_payroll,2023-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 HI,state,2025,health_single_premium,8285,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 HI,state,2025,health_single_employee_contribution,857,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 HI,state,2025,health_family_premium,23603,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -246,7 +246,7 @@ LA,state,2026,sui_new_employer_rate_minimum,1,percent,2026-01-01,0,https://www.g
 LA,state,2027,sui_wage_base,7000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 LA,state,2027,sui_new_employer_rate_minimum,1,percent,2026-01-01,1,https://www.govinfo.gov/content/pkg/USCODE-2024-title26/html/USCODE-2024-title26-subtitleC-chap23-sec3303.htm,U.S. Government Publishing Office (26 U.S.C. § 3303),2026-10-30
 LA,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.dol.gov/agencies/whd/minimum-wage/state,"U.S. Department of Labor, Wage and Hour Division",2026-11-03
-LA,state,2024,workers_comp_index_rate,1.41,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+LA,state,2024,workers_comp_index_rate,1.41,usd_per_100_payroll,2023-05-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 LA,state,2025,health_single_premium,8806,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 LA,state,2025,health_single_employee_contribution,2259,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 LA,state,2025,health_family_premium,25647,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -261,7 +261,7 @@ ME,state,2027,minimum_wage,15.7,usd_per_hour,2027-01-01,0,https://www.maine.gov/
 ME,state,2026,minimum_wage,15.1,usd_per_hour,2026-01-01,0,https://www.maine.gov/labor/docs/2027/posters/English_minimum_wage.pdf,Maine Department of Labor,2026-11-03
 ME,state,2026,paid_sick_leave_hours_worked_per_hour_11_plus_employees,40,hours,2026-01-01,0,https://www.maine.gov/labor/labor_laws/earnedpaidleave/,Maine Department of Labor,2026-10-23
 ME,state,2026,paid_sick_leave_yearly_cap_11_plus_employees,40,hours,2026-01-01,0,https://www.maine.gov/labor/labor_laws/earnedpaidleave/,Maine Department of Labor,2026-10-23
-ME,state,2024,workers_comp_index_rate,1.37,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+ME,state,2024,workers_comp_index_rate,1.37,usd_per_100_payroll,2023-04-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 ME,state,2025,health_single_premium,9803,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 ME,state,2025,health_single_employee_contribution,1869,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 ME,state,2025,health_family_premium,26106,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -289,7 +289,7 @@ MA,state,2027,minimum_wage,15,usd_per_hour,2023-01-01,0,https://www.mass.gov/inf
 MA,state,2026,minimum_wage,15,usd_per_hour,2023-01-01,0,https://www.mass.gov/info-details/massachusetts-law-about-minimum-wage,Massachusetts Attorney General’s Office,2026-11-03
 MA,state,2026,paid_sick_leave_hours_worked_per_hour_11_plus_employees,30,hours,2026-01-01,0,https://www.mass.gov/info-details/earned-sick-time,Massachusetts Attorney General's Office,2026-10-23
 MA,state,2026,paid_sick_leave_yearly_cap_11_plus_employees,40,hours,2026-01-01,0,https://www.mass.gov/info-details/earned-sick-time,Massachusetts Attorney General's Office,2026-10-23
-MA,state,2024,workers_comp_index_rate,0.97,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+MA,state,2024,workers_comp_index_rate,0.97,usd_per_100_payroll,2023-07-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 MA,state,2025,health_single_premium,10436,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MA,state,2025,health_single_employee_contribution,2038,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MA,state,2025,health_family_premium,29619,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -304,7 +304,7 @@ MI,state,2026,paid_sick_leave_hours_worked_per_hour_1_10_employees,30,hours,2025
 MI,state,2026,paid_sick_leave_yearly_cap_1_10_employees,40,hours,2025-02-21,0,https://www.michigan.gov/leo/bureaus-agencies/ber/wage-and-hour/frequently-asked-questions/wage-and-hour/earned-sick-time-faqs,Michigan Department of Labor and Economic Opportunity,2026-10-23
 MI,state,2026,paid_sick_leave_hours_worked_per_hour_11_plus_employees,30,hours,2025-02-21,0,https://www.michigan.gov/leo/bureaus-agencies/ber/wage-and-hour/frequently-asked-questions/wage-and-hour/earned-sick-time-faqs,Michigan Department of Labor and Economic Opportunity,2026-10-23
 MI,state,2026,paid_sick_leave_yearly_cap_11_plus_employees,72,hours,2025-02-21,0,https://www.michigan.gov/leo/bureaus-agencies/ber/wage-and-hour/frequently-asked-questions/wage-and-hour/earned-sick-time-faqs,Michigan Department of Labor and Economic Opportunity,2026-10-23
-MI,state,2024,workers_comp_index_rate,0.9,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+MI,state,2024,workers_comp_index_rate,0.9,usd_per_100_payroll,2023-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 MI,state,2025,health_single_premium,8230,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MI,state,2025,health_single_employee_contribution,1970,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MI,state,2025,health_family_premium,23800,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -433,7 +433,7 @@ MS,state,2026,sui_new_employer_rate,1,percent,2026-01-01,0,https://oui.doleta.go
 MS,state,2027,sui_wage_base,14000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 MS,state,2027,sui_new_employer_rate,1,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 MS,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.dol.gov/agencies/whd/minimum-wage/state,"U.S. Department of Labor, Wage and Hour Division",2026-11-03
-MS,state,2024,workers_comp_index_rate,0.94,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+MS,state,2024,workers_comp_index_rate,0.94,usd_per_100_payroll,2023-03-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 MS,state,2025,health_single_premium,7612,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MS,state,2025,health_single_employee_contribution,1716,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MS,state,2025,health_family_premium,21932,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -479,7 +479,7 @@ MT,state,2027,sui_new_employer_rate_unclassified_establishments,2,percent,2026-0
 MT,state,2027,sui_surcharge_mt-aft,0.18,percent,2026-01-01,1,https://uid.dli.mt.gov/_docs/contributions-bureau/Rate-Explanation.pdf,"Montana Department of Labor & Industry, Unemployment Insurance Division",2026-10-23
 MT,state,2027,minimum_wage,11.2,usd_per_hour,2027-01-01,0,https://erd.dli.mt.gov/labor-standards/wage-and-hour-payment-act/state-minimum-wage,Montana Department of Labor & Industry,2026-11-03
 MT,state,2026,minimum_wage,10.85,usd_per_hour,2026-01-01,0,https://erd.dli.mt.gov/_docs/labor-standards/2026-MINIMUM-WAGE-POSTER.pdf,Montana Department of Labor & Industry,2026-11-03
-MT,state,2024,workers_comp_index_rate,1.34,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+MT,state,2024,workers_comp_index_rate,1.34,usd_per_100_payroll,2023-07-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 MT,state,2025,health_single_premium,8899,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MT,state,2025,health_single_employee_contribution,1493,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MT,state,2025,health_family_premium,21989,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -494,7 +494,7 @@ NE,state,2026,paid_sick_leave_hours_worked_per_hour_11_19_employees,30,hours,202
 NE,state,2026,paid_sick_leave_yearly_cap_11_19_employees,40,hours,2025-10-01,0,https://dol.nebraska.gov/webdocs/Resources/Items/Poster%20Paid%20Sick%20Time.pdf,Nebraska Department of Labor,2026-10-27
 NE,state,2026,paid_sick_leave_hours_worked_per_hour_20_plus_employees,30,hours,2025-10-01,0,https://dol.nebraska.gov/webdocs/Resources/Items/Poster%20Paid%20Sick%20Time.pdf,Nebraska Department of Labor,2026-10-27
 NE,state,2026,paid_sick_leave_yearly_cap_20_plus_employees,56,hours,2025-10-01,0,https://dol.nebraska.gov/webdocs/Resources/Items/Poster%20Paid%20Sick%20Time.pdf,Nebraska Department of Labor,2026-10-27
-NE,state,2024,workers_comp_index_rate,1.12,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+NE,state,2024,workers_comp_index_rate,1.12,usd_per_100_payroll,2023-02-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 NE,state,2025,health_single_premium,8907,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NE,state,2025,health_single_employee_contribution,1722,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NE,state,2025,health_family_premium,26830,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -505,7 +505,7 @@ NV,state,2027,sui_wage_base,45400,usd,2027-01-01,0,https://detr.nv.gov/Page/UI_T
 NV,state,2027,sui_new_employer_rate,2.95,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 NV,state,2027,minimum_wage,12,usd_per_hour,2024-07-01,0,https://www.leg.state.nv.us/const/nvconst.html,"Nevada Constitution, Article 15, § 16",2026-11-02
 NV,state,2026,minimum_wage,12,usd_per_hour,2026-11-03,0,https://www.dol.gov/agencies/whd/minimum-wage/state,"U.S. Department of Labor, Wage and Hour Division",2026-11-03
-NV,state,2024,workers_comp_index_rate,0.73,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+NV,state,2024,workers_comp_index_rate,0.73,usd_per_100_payroll,2023-09-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 NV,state,2025,health_single_premium,8215,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NV,state,2025,health_single_employee_contribution,1563,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NV,state,2025,health_family_premium,23075,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -515,7 +515,7 @@ NH,state,2026,sui_new_employer_rate,2.7,percent,2026-01-01,0,https://oui.doleta.
 NH,state,2027,sui_wage_base,14000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 NH,state,2027,sui_new_employer_rate,2.7,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 NH,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.dol.nh.gov/inspections/wage-and-hour/minimum-wage,New Hampshire Department of Labor,2026-11-03
-NH,state,2024,workers_comp_index_rate,1.22,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+NH,state,2024,workers_comp_index_rate,1.22,usd_per_100_payroll,2023-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 NH,state,2025,health_single_premium,9502,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NH,state,2025,health_single_employee_contribution,2350,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NH,state,2025,health_family_premium,28161,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -598,7 +598,7 @@ NY,state,2026,paid_sick_leave_hours_worked_per_hour_5_99_employees,30,hours,2021
 NY,state,2026,paid_sick_leave_yearly_cap_5_99_employees,40,hours,2021-01-01,0,https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave,New York State,2026-10-23
 NY,state,2026,paid_sick_leave_hours_worked_per_hour_100_plus_employees,30,hours,2021-01-01,0,https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave,New York State,2026-10-23
 NY,state,2026,paid_sick_leave_yearly_cap_100_plus_employees,56,hours,2021-01-01,0,https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave,New York State,2026-10-23
-NY,state,2024,workers_comp_index_rate,1.98,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+NY,state,2024,workers_comp_index_rate,1.98,usd_per_100_payroll,2023-10-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 NY,state,2025,health_single_premium,10913,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NY,state,2025,health_single_employee_contribution,2231,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NY,state,2025,health_family_premium,29752,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -608,7 +608,7 @@ NC,state,2026,sui_new_employer_rate,1,percent,2026-01-01,0,https://oui.doleta.go
 NC,state,2027,sui_wage_base,34200,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 NC,state,2027,sui_new_employer_rate,1,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 NC,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.labor.nc.gov/workplace-rights/employee-rights-regarding-time-worked-and-wages-earned/minimum-wage-nc,North Carolina Department of Labor,2026-11-03
-NC,state,2024,workers_comp_index_rate,0.95,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+NC,state,2024,workers_comp_index_rate,0.95,usd_per_100_payroll,2023-04-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 NC,state,2025,health_single_premium,8612,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NC,state,2025,health_single_employee_contribution,2012,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NC,state,2025,health_family_premium,25311,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -618,7 +618,7 @@ ND,state,2026,sui_new_employer_rate,1,percent,2026-01-01,0,https://oui.doleta.go
 ND,state,2027,sui_wage_base,46600,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 ND,state,2027,sui_new_employer_rate,1,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 ND,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.nd.gov/labor/sites/www/files/documents/Brochures/Wage&Hour%20and%20Equal%20Emp.pdf,North Dakota Department of Labor and Human Rights,2026-11-03
-ND,state,2024,workers_comp_index_rate,0.5,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+ND,state,2024,workers_comp_index_rate,0.5,usd_per_100_payroll,2023-07-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 ND,state,2025,health_single_premium,9318,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 ND,state,2025,health_single_employee_contribution,1579,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 ND,state,2025,health_family_premium,24903,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -629,7 +629,7 @@ OH,state,2027,sui_wage_base,9000,usd,2026-01-01,1,https://oui.doleta.gov/unemplo
 OH,state,2027,sui_new_employer_rate,2.7,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 OH,state,2027,minimum_wage,11.4,usd_per_hour,2027-01-01,0,https://com.ohio.gov/about-us/media-center/news/Ohio-Minimum-Wage-to-Increase-in-2027,Ohio Department of Commerce,2026-11-03
 OH,state,2026,minimum_wage,11,usd_per_hour,2026-01-01,0,https://com.ohio.gov/about-us/media-center/news/ohio+minimum+wage+set+to+increase+in+2026,Ohio Department of Commerce,2026-11-03
-OH,state,2024,workers_comp_index_rate,0.68,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+OH,state,2024,workers_comp_index_rate,0.68,usd_per_100_payroll,2023-07-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 OH,state,2025,health_single_premium,8804,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 OH,state,2025,health_single_employee_contribution,2016,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 OH,state,2025,health_family_premium,24661,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -639,7 +639,7 @@ OK,state,2026,sui_new_employer_rate,1.5,percent,2026-01-01,0,https://oui.doleta.
 OK,state,2027,sui_wage_base,24400,usd,2027-01-01,0,https://oklahoma.gov/oesc/employers/tax/contribution-rates.html,Oklahoma Employment Security Commission,2026-10-23
 OK,state,2027,sui_new_employer_rate,1.5,percent,2027-01-01,0,https://oklahoma.gov/oesc/employers/tax/contribution-rates.html,Oklahoma Employment Security Commission,2026-10-23
 OK,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://oklahoma.gov/labor/workplace-rights/wage-hour/faqs---wage-and-hour.html,Oklahoma Department of Labor,2026-11-03
-OK,state,2024,workers_comp_index_rate,1.33,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+OK,state,2024,workers_comp_index_rate,1.33,usd_per_100_payroll,2023-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 OK,state,2025,health_single_premium,8124,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 OK,state,2025,health_single_employee_contribution,1558,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 OK,state,2025,health_family_premium,24483,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -664,7 +664,7 @@ PA,state,2026,sui_new_employer_rate,3.822,percent,2026-01-01,0,https://oui.dolet
 PA,state,2027,sui_wage_base,10000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 PA,state,2027,sui_new_employer_rate,3.822,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 PA,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.pa.gov/agencies/dli/resources/compliance-laws-and-regulations/labor-management-relations/pennsylvania-s-minimum-wage-act/wage-faqs,Pennsylvania Department of Labor & Industry,2026-11-03
-PA,state,2024,workers_comp_index_rate,1.14,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+PA,state,2024,workers_comp_index_rate,1.14,usd_per_100_payroll,2023-04-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 PA,state,2025,health_single_premium,9421,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 PA,state,2025,health_single_employee_contribution,1669,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 PA,state,2025,health_family_premium,26623,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -675,7 +675,7 @@ RI,state,2027,sui_wage_base,30800,usd,2026-01-01,1,https://oui.doleta.gov/unempl
 RI,state,2027,sui_new_employer_rate,1,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 RI,state,2027,minimum_wage,17,usd_per_hour,2027-01-01,0,https://dlt.ri.gov/regulation-and-safety/labor-standards/minimum-wage,Rhode Island Department of Labor and Training,2026-11-03
 RI,state,2026,minimum_wage,16,usd_per_hour,2026-11-03,0,https://www.dol.gov/agencies/whd/minimum-wage/state,"U.S. Department of Labor, Wage and Hour Division",2026-11-03
-RI,state,2024,workers_comp_index_rate,1.38,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+RI,state,2024,workers_comp_index_rate,1.38,usd_per_100_payroll,2023-08-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 RI,state,2025,health_single_premium,9388,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 RI,state,2025,health_single_employee_contribution,2046,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 RI,state,2025,health_family_premium,27361,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -685,7 +685,7 @@ SC,state,2026,sui_new_employer_rate,1,percent,2026-01-01,0,https://oui.doleta.go
 SC,state,2027,sui_wage_base,14000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 SC,state,2027,sui_new_employer_rate,1,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 SC,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.dol.gov/agencies/whd/minimum-wage/state,"U.S. Department of Labor, Wage and Hour Division",2026-11-03
-SC,state,2024,workers_comp_index_rate,1.03,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+SC,state,2024,workers_comp_index_rate,1.03,usd_per_100_payroll,2023-04-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 SC,state,2025,health_single_premium,8552,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 SC,state,2025,health_single_employee_contribution,1814,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 SC,state,2025,health_family_premium,25046,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -696,7 +696,7 @@ SD,state,2027,sui_wage_base,15000,usd,2026-01-01,1,https://oui.doleta.gov/unempl
 SD,state,2027,sui_new_employer_rate,1.2,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 SD,state,2027,minimum_wage,12.3,usd_per_hour,2027-01-01,0,https://dlr.sd.gov/employment_laws/minimum_wage.aspx,South Dakota Department of Labor & Regulation,2026-11-03
 SD,state,2026,minimum_wage,11.85,usd_per_hour,2026-01-01,0,https://dlr.sd.gov/employment_laws/minimum_wage.aspx,South Dakota Department of Labor & Regulation,2026-11-03
-SD,state,2024,workers_comp_index_rate,1.13,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+SD,state,2024,workers_comp_index_rate,1.13,usd_per_100_payroll,2023-07-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 SD,state,2025,health_single_premium,8985,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 SD,state,2025,health_single_employee_contribution,1730,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 SD,state,2025,health_family_premium,26110,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -706,7 +706,7 @@ TN,state,2026,sui_new_employer_rate,2.7,percent,2026-01-01,0,https://oui.doleta.
 TN,state,2027,sui_wage_base,7000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 TN,state,2027,sui_new_employer_rate,2.7,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 TN,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.dol.gov/agencies/whd/minimum-wage/state,"U.S. Department of Labor, Wage and Hour Division",2026-11-03
-TN,state,2024,workers_comp_index_rate,0.8,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+TN,state,2024,workers_comp_index_rate,0.8,usd_per_100_payroll,2023-03-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 TN,state,2025,health_single_premium,8667,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 TN,state,2025,health_single_employee_contribution,1645,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 TN,state,2025,health_family_premium,25123,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -716,7 +716,7 @@ TX,state,2026,sui_new_employer_rate,2.7,percent,2026-01-01,0,https://oui.doleta.
 TX,state,2027,sui_wage_base,9000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 TX,state,2027,sui_new_employer_rate,2.7,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 TX,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.dol.gov/agencies/whd/minimum-wage/state,"U.S. Department of Labor, Wage and Hour Division",2026-11-03
-TX,state,2024,workers_comp_index_rate,0.78,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+TX,state,2024,workers_comp_index_rate,0.78,usd_per_100_payroll,2023-07-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 TX,state,2025,health_single_premium,8543,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 TX,state,2025,health_single_employee_contribution,1638,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 TX,state,2025,health_family_premium,25053,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -739,7 +739,7 @@ VT,state,2027,minimum_wage,14.91,usd_per_hour,2027-01-01,0,https://labor.vermont
 VT,state,2026,minimum_wage,14.42,usd_per_hour,2026-01-01,0,https://labor.vermont.gov/press-release/vermont-department-labor-announces-minimum-wage-increase-starting-january-2026,Vermont Department of Labor,2026-11-03
 VT,state,2026,paid_sick_leave_hours_worked_per_hour_1_plus_employees,52,hours,2019-01-01,0,https://legislature.vermont.gov/statutes/section/21/005/00482,Vermont General Assembly (21 V.S.A. § 482),2026-10-23
 VT,state,2026,paid_sick_leave_yearly_cap_1_plus_employees,40,hours,2019-01-01,0,https://legislature.vermont.gov/statutes/section/21/005/00482,Vermont General Assembly (21 V.S.A. § 482),2026-10-23
-VT,state,2024,workers_comp_index_rate,1.6,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+VT,state,2024,workers_comp_index_rate,1.6,usd_per_100_payroll,2023-04-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 VT,state,2025,health_single_premium,10004,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 VT,state,2025,health_single_employee_contribution,2187,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 VT,state,2025,health_family_premium,25450,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -750,7 +750,7 @@ VA,state,2027,sui_wage_base,8000,usd,2026-01-01,1,https://oui.doleta.gov/unemplo
 VA,state,2027,sui_new_employer_rate,2.5,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 VA,state,2027,minimum_wage,13.75,usd_per_hour,2027-01-01,0,https://www.governor.virginia.gov/newsroom/news-releases/2026/april-releases/name-1116004-en.html,Office of the Governor of Virginia,2026-11-03
 VA,state,2026,minimum_wage,12.77,usd_per_hour,2026-01-01,0,https://www.governor.virginia.gov/newsroom/news-releases/2026/april-releases/name-1116004-en.html,Office of the Governor of Virginia,2026-11-03
-VA,state,2024,workers_comp_index_rate,0.73,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+VA,state,2024,workers_comp_index_rate,0.73,usd_per_100_payroll,2023-04-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 VA,state,2025,health_single_premium,8970,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 VA,state,2025,health_single_employee_contribution,2054,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 VA,state,2025,health_family_premium,27257,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -775,7 +775,7 @@ WV,state,2027,sui_wage_base,9500,usd,2026-01-01,1,https://oui.doleta.gov/unemplo
 WV,state,2027,sui_new_employer_rate,2.7,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 WV,state,2027,minimum_wage,8.75,usd_per_hour,2016-01-01,0,https://labor.wv.gov/wage-hour/jobs-act/minimum-wage,West Virginia Division of Labor,2026-11-03
 WV,state,2026,minimum_wage,8.75,usd_per_hour,2016-01-01,0,https://labor.wv.gov/media/48/download?inline=,West Virginia Division of Labor,2026-11-03
-WV,state,2024,workers_comp_index_rate,0.54,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+WV,state,2024,workers_comp_index_rate,0.54,usd_per_100_payroll,2023-11-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 WV,state,2025,health_single_premium,8878,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 WV,state,2025,health_single_employee_contribution,2012,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 WV,state,2025,health_family_premium,26094,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -787,7 +787,7 @@ WI,state,2027,sui_wage_base,14000,usd,2027-01-01,0,https://dwd.wisconsin.gov/ui/
 WI,state,2027,sui_new_employer_rate,3.05,percent,2027-01-01,0,https://dwd.wisconsin.gov/ui/employer/taxrates,Wisconsin Department of Workforce Development,2026-11-12
 WI,state,2027,sui_new_employer_rate_construction,2.5,percent,2027-01-01,0,https://dwd.wisconsin.gov/ui/employer/taxrates,Wisconsin Department of Workforce Development,2026-11-12
 WI,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-12,0,https://dwd.wisconsin.gov/er/labor-standards/wages-deductions/minimum-wage,Wisconsin Department of Workforce Development,2026-11-12
-WI,state,2024,workers_comp_index_rate,1.42,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
+WI,state,2024,workers_comp_index_rate,1.42,usd_per_100_payroll,2023-10-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 WI,state,2025,health_single_premium,9557,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 WI,state,2025,health_single_employee_contribution,2052,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 WI,state,2025,health_family_premium,27309,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
