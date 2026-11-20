@@ -3,13 +3,13 @@ US,federal,2026,social_security_rate,6.2,percent,2026-01-01,0,https://www.irs.go
 US,federal,2026,social_security_wage_base,184500,usd,2026-01-01,0,https://www.ssa.gov/oact/cola/cbb.html,Social Security Administration,2026-10-23
 US,federal,2026,medicare_rate,1.45,percent,2026-01-01,0,https://www.ssa.gov/oact/cola/cbb.html,Social Security Administration,2026-10-23
 US,federal,2026,futa_rate,6,percent,2026-01-01,0,https://www.irs.gov/taxtopics/tc759,Internal Revenue Service,2026-10-23
-US,federal,2026,futa_credit,5.4,percent,2026-01-01,0,https://www.irs.gov/taxtopics/tc759,Internal Revenue Service,2026-10-23
+US,federal,2026,futa_credit,5.4,percent,2026-01-01,0,https://www.irs.gov/taxtopics/tc759,Internal Revenue Service,2026-11-15
 US,federal,2026,futa_wage_base,7000,usd,2026-01-01,0,https://www.irs.gov/taxtopics/tc759,Internal Revenue Service,2026-10-23
 US,federal,2027,social_security_rate,6.2,percent,2027-01-01,0,https://www.ssa.gov/oact/cola/cbb.html,Social Security Administration,2026-10-23
 US,federal,2027,social_security_wage_base,192300,usd,2027-01-01,0,https://www.ssa.gov/oact/cola/cbb.html,Social Security Administration,2026-10-23
 US,federal,2027,medicare_rate,1.45,percent,2026-01-01,0,https://www.ssa.gov/oact/cola/cbb.html,Social Security Administration,2026-10-23
 US,federal,2027,futa_rate,6,percent,2026-01-01,0,https://www.irs.gov/taxtopics/tc759,Internal Revenue Service,2026-10-23
-US,federal,2027,futa_credit,5.4,percent,2026-01-01,0,https://www.irs.gov/taxtopics/tc759,Internal Revenue Service,2026-10-23
+US,federal,2027,futa_credit,5.4,percent,2026-01-01,0,https://www.irs.gov/taxtopics/tc759,Internal Revenue Service,2026-11-15
 US,federal,2027,futa_wage_base,7000,usd,2026-01-01,0,https://www.irs.gov/taxtopics/tc759,Internal Revenue Service,2026-10-23
 US,federal,2026,minimum_wage,7.25,usd_per_hour,2009-07-24,0,https://www.dol.gov/agencies/whd/minimum-wage,"U.S. Department of Labor, Wage and Hour Division",2026-10-08
 AL,state,2026,sui_wage_base,8000,usd,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
@@ -272,8 +272,8 @@ MD,state,2027,sui_wage_base,8500,usd,2026-01-01,1,https://oui.doleta.gov/unemplo
 MD,state,2027,sui_new_employer_rate,2.6,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 MD,state,2027,minimum_wage,15,usd_per_hour,2024-01-01,0,https://www.labor.maryland.gov/labor/wages/wagehrfacts.shtml,Maryland Department of Labor,2026-11-03
 MD,state,2026,minimum_wage,15,usd_per_hour,2026-11-03,0,https://www.labor.maryland.gov/labor/wages/wagehrfacts.shtml,Maryland Department of Labor,2026-11-03
-MD,state,2026,paid_sick_leave_hours_worked_per_hour_15_plus_employees,30,hours,2018-02-11,0,https://labor.maryland.gov/paidleave/paidleavefaqs.shtml,Maryland Department of Labor,2026-10-23
-MD,state,2026,paid_sick_leave_yearly_cap_15_plus_employees,40,hours,2018-02-11,0,https://labor.maryland.gov/paidleave/paidleavefaqs.shtml,Maryland Department of Labor,2026-10-23
+MD,state,2026,paid_sick_leave_hours_worked_per_hour_15_plus_employees,30,hours,2018-02-11,0,https://labor.maryland.gov/paidleave/paidleavefaqs.shtml,Maryland Department of Labor,2026-11-19
+MD,state,2026,paid_sick_leave_yearly_cap_15_plus_employees,40,hours,2018-02-11,0,https://labor.maryland.gov/paidleave/paidleavefaqs.shtml,Maryland Department of Labor,2026-11-19
 MD,state,2024,workers_comp_index_rate,0.89,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 MD,state,2025,health_single_premium,8760,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MD,state,2025,health_single_employee_contribution,2065,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -281,10 +281,10 @@ MD,state,2025,health_family_premium,24717,usd,2025-01-01,0,https://meps.ahrq.gov
 MD,state,2025,health_family_employee_contribution,6502,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 MA,state,2026,sui_wage_base,15000,usd,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 MA,state,2026,sui_new_employer_rate,2.42,percent,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
-MA,state,2026,ma_pfml_employer_rate_25_plus_employees,0.42,percent,2026-01-01,0,https://www.mass.gov/info-details/paid-family-and-medical-leave-employer-contribution-rates-and-calculator,Massachusetts Department of Family and Medical Leave,2026-10-23
+MA,state,2026,ma_pfml_employer_rate_25_plus_employees,0.42,percent,2026-01-01,0,https://www.mass.gov/info-details/paid-family-and-medical-leave-employer-contribution-rates-and-calculator,Massachusetts Department of Family and Medical Leave,2026-11-20
 MA,state,2027,sui_wage_base,15000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 MA,state,2027,sui_new_employer_rate,2.42,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
-MA,state,2027,ma_pfml_employer_rate_25_plus_employees,0.42,percent,2027-01-01,0,https://www.mass.gov/info-details/paid-family-and-medical-leave-employer-contribution-rates-and-calculator,Massachusetts Department of Family and Medical Leave,2026-10-23
+MA,state,2027,ma_pfml_employer_rate_25_plus_employees,0.42,percent,2027-01-01,0,https://www.mass.gov/info-details/paid-family-and-medical-leave-employer-contribution-rates-and-calculator,Massachusetts Department of Family and Medical Leave,2026-11-20
 MA,state,2027,minimum_wage,15,usd_per_hour,2023-01-01,0,https://www.mass.gov/info-details/minimum-wage-and-overtime-information,Commonwealth of Massachusetts,2026-11-03
 MA,state,2026,minimum_wage,15,usd_per_hour,2023-01-01,0,https://www.mass.gov/info-details/massachusetts-law-about-minimum-wage,Massachusetts Attorney General’s Office,2026-11-03
 MA,state,2026,paid_sick_leave_hours_worked_per_hour_11_plus_employees,30,hours,2026-01-01,0,https://www.mass.gov/info-details/earned-sick-time,Massachusetts Attorney General's Office,2026-10-23
@@ -514,15 +514,15 @@ NH,state,2026,sui_wage_base,14000,usd,2026-01-01,0,https://oui.doleta.gov/unempl
 NH,state,2026,sui_new_employer_rate,2.7,percent,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 NH,state,2027,sui_wage_base,14000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 NH,state,2027,sui_new_employer_rate,2.7,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
-NH,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.dol.nh.gov/inspections/wage-and-hour/minimum-wage,New Hampshire Department of Labor,2026-11-03
+NH,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-19,0,https://www.dol.nh.gov/inspections/wage-and-hour/minimum-wage,New Hampshire Department of Labor,2026-11-19
 NH,state,2024,workers_comp_index_rate,1.22,usd_per_100_payroll,2023-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 NH,state,2025,health_single_premium,9502,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NH,state,2025,health_single_employee_contribution,2350,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NH,state,2025,health_family_premium,28161,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NH,state,2025,health_family_employee_contribution,7434,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NJ,state,2026,sui_wage_base,44800,usd,2026-01-01,0,https://www.nj.gov/labor/ea/employer-services/rate-info/,New Jersey Department of Labor and Workforce Development,2026-11-02
-NJ,state,2026,sui_new_employer_rate,2.8,percent,2025-07-01,0,https://www.nj.gov/labor/ea/employer-services/rate-info/,New Jersey Department of Labor and Workforce Development,2026-11-02
-NJ,state,2026,nj_tdi_employer_rate_1_plus_employees,0.5,percent,2025-07-01,0,https://www.nj.gov/labor/ea/employer-services/rate-info/,New Jersey Department of Labor and Workforce Development,2026-11-02
+NJ,state,2026,sui_new_employer_rate,2.8,percent,2026-07-01,0,https://www.nj.gov/labor/ea/employer-services/rate-info/,New Jersey Department of Labor and Workforce Development,2026-11-02
+NJ,state,2026,nj_tdi_employer_rate_1_plus_employees,0.5,percent,2026-07-01,0,https://www.nj.gov/labor/ea/employer-services/rate-info/,New Jersey Department of Labor and Workforce Development,2026-11-02
 NJ,state,2027,sui_wage_base,46400,usd,2027-01-01,0,https://www.nj.gov/labor/ea/employer-services/rate-info/,New Jersey Department of Labor and Workforce Development,2026-11-02
 NJ,state,2027,sui_new_employer_rate,2.8,percent,2026-07-01,0,https://www.nj.gov/labor/ea/employer-services/rate-info/,New Jersey Department of Labor and Workforce Development,2026-11-02
 NJ,state,2027,nj_tdi_employer_rate_1_plus_employees,0.5,percent,2026-07-01,0,https://www.nj.gov/labor/ea/employer-services/rate-info/,New Jersey Department of Labor and Workforce Development,2026-11-02
@@ -650,8 +650,8 @@ OR,state,2026,or_paid_leave_employer_rate_25_plus_employees,0.4,percent,2026-01-
 OR,state,2027,sui_wage_base,56700,usd,2026-01-01,1,https://www.oregon.gov/employ/Businesses/Tax/Pages/Current-Tax-Rate.aspx,Oregon Employment Department,2026-10-23
 OR,state,2027,sui_new_employer_rate,2.4,percent,2026-01-01,1,https://www.oregon.gov/employ/Businesses/Tax/Pages/Current-Tax-Rate.aspx,Oregon Employment Department,2026-10-23
 OR,state,2027,or_paid_leave_employer_rate_25_plus_employees,0.4,percent,2026-01-01,1,https://paidleave.oregon.gov/employers/,Paid Leave Oregon (Oregon Employment Department),2026-10-23
-OR,state,2027,minimum_wage,15.55,usd_per_hour,2026-07-01,1,https://www.oregon.gov/boli/workers/Pages/minimum-wage.aspx,Oregon Bureau of Labor and Industries,2026-11-03
-OR,state,2026,minimum_wage,15.55,usd_per_hour,2026-07-01,0,https://www.oregon.gov/boli/workers/pages/minimum-wage.aspx,Oregon Bureau of Labor and Industries,2026-11-03
+OR,state,2027,minimum_wage,15.55,usd_per_hour,2026-07-01,1,https://www.oregon.gov/boli/workers/Pages/minimum-wage.aspx,Oregon Bureau of Labor and Industries,2026-11-15
+OR,state,2026,minimum_wage,15.55,usd_per_hour,2026-07-01,0,https://www.oregon.gov/boli/workers/pages/minimum-wage.aspx,Oregon Bureau of Labor and Industries,2026-11-15
 OR,state,2026,paid_sick_leave_hours_worked_per_hour_10_plus_employees,30,hours,2026-01-01,0,https://www.oregon.gov/boli/workers/pages/sick-time.aspx,Oregon Bureau of Labor and Industries,2026-10-23
 OR,state,2026,paid_sick_leave_yearly_cap_10_plus_employees,40,hours,2026-01-01,0,https://www.oregon.gov/boli/workers/pages/sick-time.aspx,Oregon Bureau of Labor and Industries,2026-10-23
 OR,state,2024,workers_comp_index_rate,0.89,usd_per_100_payroll,2024-01-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
@@ -749,7 +749,7 @@ VA,state,2026,sui_new_employer_rate,2.5,percent,2026-01-01,0,https://oui.doleta.
 VA,state,2027,sui_wage_base,8000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 VA,state,2027,sui_new_employer_rate,2.5,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 VA,state,2027,minimum_wage,13.75,usd_per_hour,2027-01-01,0,https://www.governor.virginia.gov/newsroom/news-releases/2026/april-releases/name-1116004-en.html,Office of the Governor of Virginia,2026-11-03
-VA,state,2026,minimum_wage,12.77,usd_per_hour,2026-01-01,0,https://www.governor.virginia.gov/newsroom/news-releases/2026/april-releases/name-1116004-en.html,Office of the Governor of Virginia,2026-11-03
+VA,state,2026,minimum_wage,12.77,usd_per_hour,2026-01-01,0,https://www.governor.virginia.gov/newsroom/news-releases/2026/april-releases/name-1116004-en.html,Office of the Governor of Virginia,2026-11-15
 VA,state,2024,workers_comp_index_rate,0.73,usd_per_100_payroll,2023-04-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 VA,state,2025,health_single_premium,8970,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 VA,state,2025,health_single_employee_contribution,2054,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02

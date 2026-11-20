@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.11.20
+
+Massachusetts PFML 2027: the total contribution (0.88%) is now quoted from the DFML's 2027 rate split (0.28% + 0.42% family leave, 0.18% medical leave) after mass.gov removed its single-sentence statement; no value changed. Check dates refreshed.
+
 ## 2026.11.13
 
 Colorado FAMLI 2026 premium (0.88%) re-quoted from famli.colorado.gov/employers after the page dropped its earlier sentence; value unchanged. Wisconsin DWD minimum-wage and unemployment-rate sources re-addressed after the agency's 2026-11-10 site relaunch; values unchanged.
