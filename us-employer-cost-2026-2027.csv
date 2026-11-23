@@ -67,7 +67,7 @@ AR,state,2025,health_family_employee_contribution,7824,usd,2025-01-01,0,https://
 CA,state,2026,sui_wage_base,7000,usd,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-31
 CA,state,2026,sui_new_employer_rate,3.4,percent,2026-01-01,0,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-10-23
 CA,state,2026,sui_surcharge_ett,0.1,percent,2026-01-01,0,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-10-23
-CA,state,2026,futa_credit_reduction_potential,1.5,percent,2026-11-10,0,https://oui.doleta.gov/unemploy/docs/potential_credit_states_2026.xlsx,"U.S. Department of Labor, Employment and Training Administration",2026-11-11
+CA,state,2026,futa_credit_reduction,1.5,percent,2026-11-10,0,https://oui.doleta.gov/unemploy/docs/final_credit_states_2026.xlsx,"U.S. Department of Labor, Employment and Training Administration",2026-11-21
 CA,state,2027,sui_wage_base,7000,usd,2027-01-01,0,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-11-11
 CA,state,2027,sui_new_employer_rate,3.4,percent,2027-01-01,0,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-11-11
 CA,state,2027,sui_surcharge_ett,0.1,percent,2027-01-01,1,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,California Employment Development Department,2026-11-11
@@ -607,7 +607,7 @@ NC,state,2026,sui_wage_base,34200,usd,2026-01-01,0,https://oui.doleta.gov/unempl
 NC,state,2026,sui_new_employer_rate,1,percent,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 NC,state,2027,sui_wage_base,34200,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 NC,state,2027,sui_new_employer_rate,1,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
-NC,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.labor.nc.gov/workplace-rights/employee-rights-regarding-time-worked-and-wages-earned/minimum-wage-nc,North Carolina Department of Labor,2026-11-03
+NC,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-21,0,https://www.labor.nc.gov/workplace-rights/employee-rights-regarding-time-worked-and-wages-earned/minimum-wage-nc,North Carolina Department of Labor,2026-11-21
 NC,state,2024,workers_comp_index_rate,0.95,usd_per_100_payroll,2023-04-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 NC,state,2025,health_single_premium,8612,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 NC,state,2025,health_single_employee_contribution,2012,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
@@ -663,7 +663,7 @@ PA,state,2026,sui_wage_base,10000,usd,2026-01-01,0,https://oui.doleta.gov/unempl
 PA,state,2026,sui_new_employer_rate,3.822,percent,2026-01-01,0,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 PA,state,2027,sui_wage_base,10000,usd,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
 PA,state,2027,sui_new_employer_rate,3.822,percent,2026-01-01,1,https://oui.doleta.gov/unemploy/content/sigpros/2020-2029/January2026.pdf,"U.S. Department of Labor, Employment and Training Administration",2026-10-23
-PA,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-03,0,https://www.pa.gov/agencies/dli/resources/compliance-laws-and-regulations/labor-management-relations/pennsylvania-s-minimum-wage-act/wage-faqs,Pennsylvania Department of Labor & Industry,2026-11-03
+PA,state,2026,minimum_wage,7.25,usd_per_hour,2026-11-21,0,https://www.pa.gov/agencies/dli/resources/compliance-laws-and-regulations/labor-management-relations/pennsylvania-s-minimum-wage-act/wage-faqs,Pennsylvania Department of Labor & Industry,2026-11-21
 PA,state,2024,workers_comp_index_rate,1.14,usd_per_100_payroll,2023-04-01,0,https://www.oregon.gov/DCBS/DCBSPubs/reports/general/prem-rpt/24-2083.pdf,Oregon Department of Consumer and Business Services,2026-11-04
 PA,state,2025,health_single_premium,9421,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
 PA,state,2025,health_single_employee_contribution,1669,usd,2025-01-01,0,https://meps.ahrq.gov/mepsweb/data_stats/summ_tables/insr/state/series_2/2025/ic25_iia_f.pdf,Agency for Healthcare Research and Quality (MEPS-IC),2026-11-02
