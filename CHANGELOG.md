@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.11.26
+
+Michigan's 2026 minimum wage ($13.73/hour, unchanged) now cites the Michigan Department of Labor and Economic Opportunity's WHD 9904 rate schedule: the agency's minimum wage page now states only the 2027 rate ($15.00 from January 1, 2027). Michigan's values re-checked on 2026-11-26. Also includes the data checked through 2026-11-25.
+
 ## 2026.11.20
 
 Massachusetts PFML 2027: the total contribution (0.88%) is now quoted from the DFML's 2027 rate split (0.28% + 0.42% family leave, 0.18% medical leave) after mass.gov removed its single-sentence statement; no value changed. Check dates refreshed.

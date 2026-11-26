@@ -2,7 +2,7 @@
  "name": "us-employer-cost-2026-2027",
  "title": "US Employer Cost Dataset 2026-2027 (Hiring Cost Atlas)",
  "homepage": "https://leadchangegroup.com/research/hiring-cost-atlas/",
- "version": "2026.11.21",
+ "version": "2026.11.26",
  "licenses": [
   {
    "name": "CC-BY-4.0",
@@ -53,7 +53,7 @@
      },
      {
       "name": "value",
-      "description": "The number",
+      "description": "The number; empty when the 2027 value is not announced yet (see status_2027)",
       "type": "number"
      },
      {
@@ -63,17 +63,17 @@
      },
      {
       "name": "effective",
-      "description": "Date the value applies from (or the survey or study edition)",
+      "description": "Date the value (or the value in effect) applies from, or the survey or study edition; empty where the source gives no date",
       "type": "date"
      },
      {
-      "name": "carried_from_2026",
-      "description": "1 when the 2027 value is not published yet and the 2026 value is shown",
-      "type": "integer"
+      "name": "carried_from_prior_year",
+      "description": "1 when the 2027 value is not announced yet and the 2026 value is in value_2026_in_effect",
+      "type": "string"
      },
      {
       "name": "source_url",
-      "description": "Official page the value comes from",
+      "description": "Official page the value (or the value in effect) comes from",
       "type": "string"
      },
      {
@@ -85,6 +85,26 @@
       "name": "verified_at",
       "description": "Day the value was last checked against its source",
       "type": "date"
+     },
+     {
+      "name": "carried_from_2026",
+      "description": "The same value as carried_from_prior_year, under the column's earlier name, kept for files that read it",
+      "type": "integer"
+     },
+     {
+      "name": "state_fips",
+      "description": "Two-digit FIPS code of the state, as text (a city has its state’s; 00 is the United States)",
+      "type": "string"
+     },
+     {
+      "name": "status_2027",
+      "description": "On 2027 rows: announced, set_by_law (a statute fixes the value, or keeps it in force) or not_announced; the file data-2027-announced.csv has the first two",
+      "type": "string"
+     },
+     {
+      "name": "value_2026_in_effect",
+      "description": "On a 2027 row that is not_announced: the 2026 value (empty on the other rows)",
+      "type": "string"
      }
     ]
    }
